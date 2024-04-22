@@ -1,0 +1,8 @@
+@import './color.css';
+@import './font.css';
+@import './reset.css';
+
+:root {
+  --z-index-nav: 100;
+  --z-index-icon: 10;
+}
